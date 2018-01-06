@@ -1,14 +1,26 @@
 # Software development project checklist
 
+> This document tries to define the most critical aspects
+  that determine the success or failure of a software development project. \
+  Answering these questions should give anyone a quick overview of the health of the project.
+
+> The questions are closed, easy to understand and should be easy to answer.
+  Filling-out the checklist should therefore be pretty straightforward.
+
 1. What is the name of the project?
+    > Make the project name explicit.
 1. What is the project metaphor?
+    > Express the gist of the project in one sentence.
+      Use the correct key nouns and verbs.
 
 
 ## Project investor
 `Pays the bills, expecting to turn the project into profit.`
 
 1. What is their name and position?
+    > Make it explicit.
 1. What is their project vision?
+    > 
 1. Do they have a project business case?
 1. Does the business case cover the development needs realistically?
 1. Is the revenues side of the business case realistic?
