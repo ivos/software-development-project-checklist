@@ -49,10 +49,10 @@
 1. Do product owners confirm that the FS is correct and complete?
 1. Do testers produce acceptance test cases based on the FS and nothing else?
 1. Do developers implement the system based on the FS and nothing else?
-1. Does the FS provide a clear and comprehensive specification of the UI (screen mockups)?
-1. Does the FS specify the APIs provided (inbound operations, data structures)?
-1. Does the FS specify the functionality (algorithms, validations)?
 1. Does the FS specify the data model?
+1. Does the FS provide a clear and comprehensive specification of the UI (screen mockups with fields and buttons)?
+1. Does the FS specify the functionality (algorithms, validations)?
+1. Does the FS specify the APIs provided (inbound operations, data structures)?
 1. Does the FS specify the APIs called (outbound operations, data structures)?
 1. Does the analysis specify volumes of data stored and increments per time interval for each significant system entity?
 
